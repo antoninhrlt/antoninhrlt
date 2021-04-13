@@ -9,7 +9,7 @@ with C++ is being written.
 Discover the [raslib](https://github.com/antoninhrlt/raslib) project with its 
 [C++ library](https://github.com/antoninhrlt/raslib) and 
 [Android app](https://github.com/antoninhrlt/rasdroid) : soon, a class for video
- image recovery.\
+ image recovery.
 
 I often work on 3D rendering, and have started to create *Frog*, a C++ rendering
 library that will be open source, and I'll certainly make advanced software for 
