@@ -18,7 +18,9 @@ that.
 Of course, I'm not the biggest Github user, but when I can, I like to share 
 things here.
 
-## <p align="center">Languages and Tools:</p>
+#
+
+### <p align="center">Languages and Tools:</p>
 <p align="center">
 <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" 
