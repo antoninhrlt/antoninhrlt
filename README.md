@@ -61,4 +61,8 @@ things here.
 <a href="https://www.jetbrains.com" target="_blank">
     <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/jetbrains_logo_icon_145150.png" 
     width="40" height="40"/>
+</a>
+<a href="https://www.blender.org" target="_blank">
+    <img src="https://images.squarespace-cdn.com/content/v1/5cb50c0dca525b5f7c4b4841/1556212483620-RUG1ULID60TKP1TBCJ1J/ke17ZwdGBToddI8pDm48kHhlTY0to_qtyxq77jLiHTtZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7T-j82ScS_xjTqFYGqFrT72qZ_E0ELtHpOZiWcSG1QwIMeEVreGuQ8F95X5MZTW1Jw/blender_logo_square_256.png?format=500w" 
+    width="40" height="40"/>
 </a></p>
