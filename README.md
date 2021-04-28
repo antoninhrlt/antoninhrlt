@@ -56,7 +56,7 @@ things here.
     width="30" height="30"/>
 </a>
 <a href="https://www.jetbrains.com" target="_blank">
-    <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/jetbrains_logo_icon_145150.png" 
+    <img src="https://nodesk.co/remote-companies/assets/logos/_huc59163b73ad18763c3be194a4e81a6bc_11287_6e3da41d60bb10a18d04765a753cdd04.jpg",
     width="30" height="30"/>
 </a>
 <a href="https://www.blender.org" target="_blank">
