@@ -1,3 +1,8 @@
+<div align="center">
+
+[blog](https://blog.antoninhrlt.com) - [website](https://antoninhrlt.com) - [crates.io](https://crates.io/users/antoninhrlt) - [pub.dev](https://pub.dev/publishers/antoninhrlt.com/packages)
+</div>
+
 ```rust
 pub struct Anto { /* ...*/ }
 
@@ -7,8 +12,3 @@ impl Programmer for Anto {
     }
 }
 ```
-<div align="center">
-
-[blog](https://blog.antoninhrlt.com) - [website](https://antoninhrlt.com) - [crates.io](https://crates.io/users/antoninhrlt) - [pub.dev](https://pub.dev/publishers/antoninhrlt.com/packages)
-
-</div>
