@@ -4,7 +4,7 @@
 </div>
 
 ```rust
-pub struct Anto { /* ...*/ }
+pub struct Anto { /* ... */ }
 
 impl Programmer for Anto {
     fn code(&mut self, lang: Language) {
