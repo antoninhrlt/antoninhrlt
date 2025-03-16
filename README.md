@@ -1,8 +1,3 @@
-<div align="center">
-
-[crates.io](https://crates.io/users/antoninhrlt) - [pub.dev](https://pub.dev/publishers/antoninhrlt.com/packages)
-</div>
-
 ```rust
 pub struct Anto { /* ... */ }
 
